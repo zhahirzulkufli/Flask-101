@@ -13,3 +13,6 @@ https://www.favicon.cc/
 Database (PONY ORM)
 https://docs.ponyorm.org
 https://github.com/ponyorm/pony/tree/orm/pony/flask
+
+UI Design
+https://www.quackit.com/bootstrap/bootstrap_4/examples/
