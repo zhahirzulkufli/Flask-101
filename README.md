@@ -1,6 +1,15 @@
 # Flask-101
 Build website using Flask Web Framework. Deploy on python-based server, pythonanywhere.com.
 
+## Setup Virtualenv
+https://help.pythonanywhere.com/pages/Virtualenvs
+Open new consoles https://www.pythonanywhere.com/user/enzhahir/consoles/bash/new
+$ mkvirtualenv flask101 --python=/usr/bin/python3.7
+(flask101)$ pip install flask Flask-Mail Flask-Login pony
+
+Go to the Virtualenv section, and enter the path: /home/<username>/.virtualenvs/flask101
+Reload web app.
+
 ## Sources
 Flask Web Framework
 https://palletsprojects.com/p/flask/
