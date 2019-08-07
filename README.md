@@ -1,5 +1,5 @@
 # Flask-101
-Build website using Flask Web Framework
+Build website using Flask Web Framework. Deploy on python-based server, pythonanywhere.com.
 
 ## Sources
 Flask Web Framework
@@ -10,3 +10,5 @@ https://pythonprogramming.net/practical-flask-introduction/
 Favicon ico
 https://www.favicon.cc/
 
+Database (PONY ORM)
+https://github.com/ponyorm/pony/tree/orm/pony/flask
