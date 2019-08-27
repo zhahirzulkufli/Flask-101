@@ -28,4 +28,4 @@ UI Design
 
 HTML Design
 + https://html-online.com/editor/
-+ https://www.toptal.com/designers/htmlarrows/
++ https://www.toptal.com/designers/htmlarrows/symbols/
