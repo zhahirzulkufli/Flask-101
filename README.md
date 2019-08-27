@@ -29,3 +29,4 @@ UI Design
 HTML Design
 + https://html-online.com/editor/
 + https://www.toptal.com/designers/htmlarrows/symbols/
++ https://ezgif.com/
