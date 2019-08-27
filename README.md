@@ -25,3 +25,7 @@ Database (PONY ORM)
 UI Design
 + https://www.quackit.com/bootstrap/bootstrap_4/examples/
 + https://bootsnipp.com/
+
+HTML Design
++ https://html-online.com/editor/
++ https://www.toptal.com/designers/htmlarrows/
